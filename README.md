@@ -5,8 +5,36 @@
 
 ---
 
-## 👋 About Me
+🎓 Master Ingénierie des Risques Économiques et Financiers  
+📍 Bordeaux, France  
+📧 alexandra@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ton-profil/)  
 
-Quantitative Risk & Data Scientist specialized in financial risk modeling, scoring systems, and regulatory analytics.
+---
 
-I design robust analytical frameworks that transform complex financial data into actionable risk intelligence and executive-level insights.
+## 📊 Domaines d’expertise
+- Analyse de données financières  
+- Modélisation du risque (PD, LGD, scoring)  
+- Power BI (DAX, modèles en étoile, dashboards exécutifs)  
+- Python (pandas, scikit-learn)  
+- SQL (optimisation, requêtes analytiques)  
+
+---
+
+## 🏦 Projets Power BI
+- **Dashboard Risque Crédit** – Analyse PD/LGD, segmentation, KPIs risque  
+- **Analyse Transactionnelle Bancaire** – Détection d’anomalies, comportements clients  
+- **Pilotage Financier** – PNB, coût du risque, rentabilité  
+
+---
+
+## 🛠️ Outils & Technologies
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## 📈 Statistiques GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
