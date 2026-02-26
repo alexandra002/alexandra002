@@ -1,3 +1,3 @@
 # github_accueil
 
-![Aperçu du projet](https://lien-vers-image.png](https://github.com/alexandra002/github_accueil/blob/main/bannière_github.png)
+<img width="1584" height="396" alt="bannière_github" src="https://github.com/user-attachments/assets/0f99455a-219c-4a9d-863c-ba6226b0cbb9" />
