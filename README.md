@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="bannière_github" src="https://github.com/user-attachments/assets/0f99455a-219c-4a9d-863c-ba6226b0cbb9" />
 
-<H1 aligner="Centre"> 👋 Salut ! je m'appelle <b>Alexandra MILLOT</b>
+<H1 aligner="Centre"> 👋 Salut ! je m'appelle <b>Alexandra MILLOT</b></H1>
 <H3 aligner="Centre"> Analyste de données | SQL | Python | Power BI | Tableau | Apprentissage automatique </H3>
 
 ---
